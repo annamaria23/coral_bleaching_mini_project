@@ -1,6 +1,6 @@
 # coral_bleaching_mini_project
 
-Coral bleaching simulations for SystemsBio Part III mini-project assessment
+Coral bleaching simulations for Systems Biology Part III mini-project assessment
 
 For our week-long mini-project, we have decided to model coral bleaching on both individual and population levels. 
 
